@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:15,920
+ All told, printing the pieces for this quad used about 3 kilograms of filament.
+
+2
+00:00:15,920 --> 00:00:18,720
+ By far though, the largest print was this center section.
+
+3
+00:00:18,720 --> 00:00:22,440
+ It used almost an entire roll of filament and took two days, even though I was printing
+
+4
+00:00:22,440 --> 00:00:26,440
+ much faster than normal using clipper.
+
+5
+00:00:26,440 --> 00:00:28,960
+ So two days of printing, what kind of clothes this was?
+
+6
+00:00:28,960 --> 00:00:30,920
+ Is it running out of film?
+
+7
+00:00:30,920 --> 00:00:33,440
+ This is a brand new spool right before I started.
+
+8
+00:00:33,440 --> 00:00:40,000
+ Oh my god, that's heavy.
+
+9
+00:00:40,000 --> 00:00:45,000
+ I got most of the support material out which is good, but then I realized that there were
+
+10
+00:00:45,000 --> 00:00:49,000
+ some very unfortunate layers shifts that went on towards the end of the print.
+
+11
+00:00:49,000 --> 00:00:52,720
+ They asked you how you were able to say that you're fine when you're not really.
+
+12
+00:00:52,720 --> 00:00:55,200
+ I guess this is what I'd get for switching to clipper.
+
+13
+00:00:55,200 --> 00:00:59,860
+ So since these layers shifts cause this to protrude at the end,
+
